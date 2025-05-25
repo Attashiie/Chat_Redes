@@ -71,3 +71,7 @@ Este é um aplicativo de chat seguro desenvolvido usando `customtkinter` para a 
     * **Fazer Login**: Se você já tiver uma conta, digite seu nome de usuário e senha nos campos respectivos e clique em "Login".
 4.  **Conversando:**
     Uma vez logado, a janela do cliente de chat aparecerá. Você pode digitar suas mensagens no campo de entrada e pressionar Enter ou clicar no botão "Enviar" para enviá-las.
+
+## Créditos
+
+Desenvolvido por [Attashiie](https://github.com/Attashiie)
