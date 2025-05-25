@@ -74,4 +74,4 @@ Este é um aplicativo de chat seguro desenvolvido usando `customtkinter` para a 
 
 ## Créditos
 
-Desenvolvido por [Attashiie](https://github.com/Attashiie)
+Desenvolvido por [Attashiie](https://github.com/Attashiie), [Carlosh007](https://github.com/Carlosh007)
